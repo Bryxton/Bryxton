@@ -1,7 +1,7 @@
-# Hey.
+<h1 align="center">Hey</h1>
 
-**Coding beginner leaving digital breadcrumbs.**  
-Brace for messy experiments and the odd win.
+<p align="center"><strong>Coding beginner leaving digital breadcrumbs.</strong><br>
+Brace for messy experiments and the odd win.</p>
 
 ---
 
