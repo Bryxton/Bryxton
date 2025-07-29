@@ -18,4 +18,4 @@ Brace for messy experiments and the odd win.</p>
 
 ---
 
-### Personal archive of code, errors, and experiments.
+<p align="right"><strong>Personal archive of code, errors, and experiments.</strong></p>
